@@ -11,8 +11,8 @@ My hobbies: playing table tennis, reading books.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&animation=spin&svgfill=2d79c7">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
 
 <!--
