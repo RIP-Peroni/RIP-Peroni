@@ -2,7 +2,7 @@
 I'm Yuriy Epikhin, fullstack developer.
 I love to learn new things in [School 21](https://21-school.ru/) (@gummypol) and [Hexlet](https://ru.hexlet.io/?ref=239473) (top 15).
 
-My hobbies: playing table tennis, reading books.
+My hobbies: playing table tennis, board games, reading books.
 
 ## Things I use on a daily basis
 <p>
