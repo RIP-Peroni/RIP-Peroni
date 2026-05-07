@@ -1,23 +1,21 @@
-# Hi all 👋
-I'm Yuriy Epikhin, fullstack developer.
-I love to learn new things in [School 21](https://21-school.ru/) (@gummypol) and [Hexlet](https://ru.hexlet.io/?ref=239473) (top 15).
+Hi all 👋
+I'm Yuriy Epikhin, a Backend Engineer specializing in Golang. I design and build high‑load, scalable systems with a focus on clean architecture and code maintainability.
 
-My hobbies: playing table tennis, board games, reading books.
+🔭 Core stack: Go, PostgreSQL, ClickHouse, RabbitMQ, Redis, Docker, Kubernetes.
 
-## Things I use on a daily basis
-<p>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=f6df1c">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&animation=spin&svgfill=2d79c7">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</p>
+🎓 Background: Alumni of School 21 (Ecole 42 network, @gummypol) — peer‑to‑peer project‑based learning, and Hexlet (top 15% of graduates).
 
-<!--
-# Coming soon 🚀
--->
+🧠 Passionate about system design, concurrency patterns, and performance optimization.
 
-<!-- ---
-# Made with 🫀: using components from [Readme components](https://github.com/harish-sethuraman/readme-components) -->
+Outside of coding: table tennis, board games, and tech literature.
+
+🛠 Tech I work with daily
+<p> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=00add8"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redis&svgfill=dc382d"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rabbitmq&svgfill=ff6600"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ed"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=326ce5"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=000000"> </p>
+Focusing on: microservices, gRPC, observability (Prometheus + Grafana), and event‑driven architecture.
+
+📌 Currently
+Building pet projects to explore Go concurrency deep dives and high‑throughput data pipelines.
+
+Mentoring junior devs (code reviews, architecture discussions).
+
+Open to senior Go backend roles (remote).
